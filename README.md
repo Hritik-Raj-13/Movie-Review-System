@@ -71,24 +71,7 @@ A modern, responsive movie review platform built with React, TypeScript, and Tai
 - **React Context API** - Global state management for user data, watchlist, and app state
 - **useReducer Hook** - Predictable state updates with action-based patterns
 
-## 📁 Project Structure
 
-```
-src/
-├── components/          # Reusable UI components
-│   ├── Layout/         # Layout components (Header, Layout)
-│   ├── Movie/          # Movie-related components (Card, Grid, Filters)
-│   ├── Review/         # Review components (Card, Form)
-│   └── UI/             # Generic UI components (Spinner, Error, StarRating)
-├── context/            # React Context providers and state management
-├── hooks/              # Custom React hooks
-├── pages/              # Page components for routing
-├── services/           # API services and data fetching
-├── types/              # TypeScript type definitions
-├── App.tsx             # Main application component
-├── main.tsx            # Application entry point
-└── index.css           # Global styles and Tailwind imports
-```
 
 ## 🎯 API Endpoints (Mock Implementation)
 
@@ -110,6 +93,9 @@ The application currently uses mock data but is structured to easily integrate w
 - `GET /api/user/watchlist` - Get user's watchlist
 - `POST /api/user/watchlist` - Add movie to watchlist
 - `DELETE /api/user/watchlist/:movieId` - Remove from watchlist
+
+## UI
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bbca84b-27d4-4abc-87d7-6d25f6ca15d8" />
 
 ## 🎨 Design System
 

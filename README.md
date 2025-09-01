@@ -95,6 +95,8 @@ The application currently uses mock data but is structured to easily integrate w
 - `DELETE /api/user/watchlist/:movieId` - Remove from watchlist
 
 ## UI
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ea13c09d-3de2-4daa-be4c-6d00dc314869" />
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3bbca84b-27d4-4abc-87d7-6d25f6ca15d8" />
 
 ## 🎨 Design System
